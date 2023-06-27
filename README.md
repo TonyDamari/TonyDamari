@@ -25,9 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Johannesburg.
-- currently looking for a frontend developer position.
-- learning backend development to become a fullstack developer.
-- experimenting with open source.
+
 
 ---
 
